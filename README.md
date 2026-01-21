@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/RUDRANSH777/driver-drowsiness-detection)
+![GitHub stars](https://img.shields.io/github/stars/RUDRANSH777/driver-drowsiness-detection?style=social)
+![License](https://img.shields.io/github/license/RUDRANSH777/driver-drowsiness-detection)
+
 # Driver Drowsiness Detection System 🚗😴
 
 The **Driver Drowsiness Detection System** is a real-time computer vision–based application designed to monitor a driver’s alertness using facial landmarks and eye-blink analysis.  
