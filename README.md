@@ -1,24 +1,21 @@
 # Driver Drowsiness Detection System 🚗😴
 
-A real-time Driver Drowsiness Detection System using Python, OpenCV, and Dlib.
-The system detects eye blinks and alerts the driver when drowsiness or sleep is detected.
+This project detects driver drowsiness in real-time using facial landmarks and eye blink analysis.
 
-## 🔍 Features
+## Features
 - Real-time face detection
-- Eye blink ratio analysis
-- Drowsiness and sleep detection
-- Beep alert system
+- Eye blink ratio calculation
+- Drowsiness & sleep detection
+- Alarm alert system
 - Live FPS display
 
-## 🛠️ Tech Stack
+## Technologies Used
 - Python
 - OpenCV
 - Dlib
 - NumPy
 - imutils
 
-## ⚙️ Installation
+## Installation
 ```bash
-git clone https://github.com/RUDRANSH777/driver-drowsiness-detection.git
-cd driver-drowsiness-detection
 pip install -r requirements.txt
